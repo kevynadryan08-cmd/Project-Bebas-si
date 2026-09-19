@@ -106,7 +106,7 @@
   <main>
     <section class="hero">
       <img
-        src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"src="https://github.com/user-attachments/assets/9bd11f94-3ae8-4957-bbe0-8ac9a0074bcd" />
+        src="https://github.com/user-attachments/assets/04a3fa22-7f2b-4535-acde-9e49a43c1101" />
 
         
   <h2 id="user-name">Ganice Geralyn</h2>
