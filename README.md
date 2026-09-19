@@ -105,12 +105,11 @@
     <section class="hero">
       <img
         src="https://github.com/user-attachments/assets/04a3fa22-7f2b-4535-acde-9e49a43c1101" />
-"
+
         
 <section class="about">
-  
 />
-      <h2 id="user-name">Kevyn Adryan Liong</h2>
+      <h2 id="user-name">Ganice Geralyn</h2>
       <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
@@ -185,7 +184,7 @@
 <section class="about">
   
 />
-      <h2 id="user-name">Kevyn Adryan Liong</h2>
+      <h2 id="user-name">Darryll Adrien Putra Purnomo</h2>
       <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
