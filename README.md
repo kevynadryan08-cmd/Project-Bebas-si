@@ -37,8 +37,7 @@
         .avatar {
           width: 120px;
           height: 160px;
-          object-fit: cover;
-          border-radius: 12px:
+        }
       />
       <h2 id="user-name">Kevyn Adryan Liong</h2>
       <p id="user-role">Frontend Developer</p>
