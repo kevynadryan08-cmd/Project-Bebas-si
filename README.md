@@ -2,7 +2,7 @@
 
 <!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
 
-![Screenshot](link-screenshot-kamu.png)
+<img width="1911" height="892" alt="Screenshot 2026-09-19 135210" src="https://github.com/user-attachments/assets/6bee768e-fa1f-425b-8e79-b659b6c16fb3" />
 
 Live Demo: [link-demo-jika-ada](#)
 
