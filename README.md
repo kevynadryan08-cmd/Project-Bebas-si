@@ -42,9 +42,9 @@
       </button>
     </section>
 
-    <section class="about">
-      <h3>About Me</h3>
-      <p>
+    
+      About Me
+      
         Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
         digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
       </p>
