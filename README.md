@@ -192,7 +192,7 @@
         class="avatar"
       />
       <h2 id="user-name">Darryll Adrien Putra purnomo</h2>
-      <p id="user-role">Frontend Developer</p>
+      <p id="user-role">JavaScript Developer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
       </button>
