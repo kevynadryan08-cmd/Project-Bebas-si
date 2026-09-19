@@ -176,7 +176,8 @@
   <main>
     <section class="hero">
       <img
-        src="https://github.com/user-attachments/assets/664aac72-d69f-47c5-9555-6c569cb4a682" />
+        src="https://github.com/user-attachments/assets/48742743-7bb8-4648-83dd-e0c85276e891" />
+" />
 " />
 "
         alt="Foto profil Anggota 1"
