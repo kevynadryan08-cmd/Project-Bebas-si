@@ -31,8 +31,9 @@
   <main>
     <section class="hero">
       <img
-        src="https://github.com/user-attachments/assets/664aac72-d69f-47c5-9555-6c569cb4a682"
-        alt="Foto profil Anggota 2"
+        src="https://github.com/user-attachments/assets/d6c98069-743f-4398-a91b-7e9cd6d8de52" />
+"
+        
         class="avatar"
         .avatar {
           width: 120px;
@@ -107,7 +108,7 @@
       <img
         src="https://github.com/user-attachments/assets/04a3fa22-7f2b-4535-acde-9e49a43c1101" />
 "
-        alt="Foto profil Anggota 1"
+        
         class="avatar"
       />
       <h2 id="user-name">Ganice Geralyn</h2>
@@ -180,7 +181,7 @@
 " />
 " />
 "
-        alt="Foto profil Anggota 1"
+        
         class="avatar"
       />
       <h2 id="user-name">Darryll Adrien Putra purnomo</h2>
