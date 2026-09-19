@@ -182,7 +182,7 @@
   <main>
     <section class="hero">
       <img
-        src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"src="https://github.com/user-attachments/assets/9bd11f94-3ae8-4957-bbe0-8ac9a0074bcd" />
+        src="https://github.com/user-attachments/assets/48742743-7bb8-4648-83dd-e0c85276e891" />
 
         
   <h2 id="user-name">Darryll Adrien Putra Purnomo</h2>
