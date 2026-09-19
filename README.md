@@ -50,14 +50,9 @@
       </p>
     </section>
 
-    <section class="skills">
-      <h3>Skill</h3>
-      <ul id="skill-list">
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-      </ul>
-    </section>
+   
+      Skill = 
+     
   </main>
 
   <footer>
