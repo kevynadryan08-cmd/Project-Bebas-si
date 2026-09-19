@@ -37,11 +37,11 @@
 
 <section class="about">
   
-/>
-      <h2 id="user-name">Kevyn Adryan Liong</h2>
-      <p id="user-role">Frontend Developer</p>
-      <button id="counter-btn" class="btn-primary">
-        👍 Like (<span id="counter">0</span>)
+
+  <h2 id="user-name">Kevyn Adryan Liong</h2>
+  <p id="user-role">Frontend Developer</p>
+  <button id="counter-btn" class="btn-primary">
+    👍 Like (<span id="counter">0</span>)
       </button>
     </section>
 
@@ -108,11 +108,11 @@
 
         
 <section class="about">
-/>
-      <h2 id="user-name">Ganice Geralyn</h2>
-      <p id="user-role">Frontend Developer</p>
-      <button id="counter-btn" class="btn-primary">
-        👍 Like (<span id="counter">0</span>)
+
+  <h2 id="user-name">Ganice Geralyn</h2>
+  <p id="user-role">Frontend Developer</p>
+  <button id="counter-btn" class="btn-primary">
+    👍 Like (<span id="counter">0</span>)
       </button>
     </section>
 
@@ -181,11 +181,11 @@
         
 <section class="about">
   
-/>
-      <h2 id="user-name">Darryll Adrien Putra Purnomo</h2>
-      <p id="user-role">Frontend Developer</p>
-      <button id="counter-btn" class="btn-primary">
-        👍 Like (<span id="counter">0</span>)
+
+  <h2 id="user-name">Darryll Adrien Putra Purnomo</h2>
+  <p id="user-role">Frontend Developer</p>
+  <button id="counter-btn" class="btn-primary">
+    👍 Like (<span id="counter">0</span>)
       </button>
     </section>
 
