@@ -98,9 +98,9 @@
     <h1 class="logo">Profile Card</h1>
     <div class="navbar-actions">
       <nav class="member-nav" aria-label="Navigasi anggota">
-        <button class="member-link active" type="button" data-member="0" aria-pressed="true">Kevyn Adryan Liong</button>
+        <button class="member-link active" type="button" data-member="0" aria-pressed="true"></button>
         <button class="https://github.com/ganicegeralyn" type="button" data-member="1" aria-pressed="false">Ganice Geralyn</button>
-        <button class="member-link" type="button" data-member="2" aria-pressed="false">Darryll Adrien Putra Purnomo</button>
+        <button class="member-link" type="button" data-member="2" aria-pressed="false"></button>
       </nav>
       <button id="theme-toggle" class="btn-toggle">
     </div>
@@ -113,8 +113,8 @@
         alt="Foto profil Anggota 1"
         class="avatar"
       />
-      <h2 id="user-name">Kevyn Adryan Liong</h2>
-      <p id="user-role">Frontend Developer</p>
+      <h2 id="user-name">Ganice Geralyn</h2>
+      <p id="user-role">Styling Engineer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
       </button>
@@ -176,8 +176,8 @@
     <h1 class="logo">Profile Card</h1>
     <div class="navbar-actions">
       <nav class="member-nav" aria-label="Navigasi anggota">
-        <button class="member-link active" type="button" data-member="0" aria-pressed="true">Kevyn Adryan Liong</button>
-        <button class="https://github.com/ganicegeralyn" type="button" data-member="1" aria-pressed="false">Ganice Geralyn</button>
+        <button class="member-link active" type="button" data-member="0" aria-pressed="true"></button>
+        <button class="https://github.com/ganicegeralyn" type="button" data-member="1" aria-pressed="false"></button>
         <button class="member-link" type="button" data-member="2" aria-pressed="false">Darryll Adrien Putra Purnomo</button>
       </nav>
       <button id="theme-toggle" class="btn-toggle">
@@ -191,7 +191,7 @@
         alt="Foto profil Anggota 1"
         class="avatar"
       />
-      <h2 id="user-name">Kevyn Adryan Liong</h2>
+      <h2 id="user-name">Darryll Adrien Putra purnomo</h2>
       <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
