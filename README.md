@@ -34,7 +34,10 @@
         src="https://github.com/user-attachments/assets/d6c98069-743f-4398-a91b-7e9cd6d8de52" />
 
      
-      />
+
+<section class="about">
+  
+/>
       <h2 id="user-name">Kevyn Adryan Liong</h2>
       <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
@@ -104,14 +107,16 @@
         src="https://github.com/user-attachments/assets/04a3fa22-7f2b-4535-acde-9e49a43c1101" />
 "
         
-        class="avatar"
-      />
-      <h2 id="user-name">Ganice Geralyn</h2>
-      <p id="user-role">Styling Engineer</p>
+<section class="about">
+  
+/>
+      <h2 id="user-name">Kevyn Adryan Liong</h2>
+      <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
       </button>
     </section>
+
 
     
      About Me
@@ -177,14 +182,16 @@
 " />
 "
         
-        class="avatar"
-      />
-      <h2 id="user-name">Darryll Adrien Putra purnomo</h2>
-      <p id="user-role">JavaScript Developer</p>
+<section class="about">
+  
+/>
+      <h2 id="user-name">Kevyn Adryan Liong</h2>
+      <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
       </button>
     </section>
+
 
    
      About Me
