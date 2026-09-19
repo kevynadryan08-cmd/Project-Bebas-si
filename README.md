@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Study Case - Git &amp; GitHub Workshop</title>
-
+  <link rel="stylesheet" href="style.css">
  
   <!--
     TODO (Anggota 2 - branch "styling"):
@@ -42,7 +42,7 @@
       </button>
     </section>
 
-    <section class="about">
+<section class="about">
       <h3>Tentang Saya</h3>
       <p>
         Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
@@ -50,7 +50,7 @@
       </p>
     </section>
 
-    <section class="skills">
+<section class="skills">
       <h3>Skill</h3>
       <ul id="skill-list">
         <li>HTML</li>
