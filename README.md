@@ -31,10 +31,7 @@
   <main>
     <section class="hero">
       <img
-        src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"
-        alt="Foto profil Anggota 1"
-        class="avatar"
-      />
+        src="https://github.com/user-attachments/assets/48742743-7bb8-4648-83dd-e0c85276e891" />
       <h2 id="user-name">Kevyn Adryan  Liong</h2>
       <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
