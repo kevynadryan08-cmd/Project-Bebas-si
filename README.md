@@ -113,12 +113,12 @@
     </section>
 
     
-    About Me
+     About Me
 
-    I focus on designing and styling the website using CSS to 
-    create a clean, responsive, and user-friendly interface.
+     I focus on designing and styling the website using CSS to 
+     create a clean, responsive, and user-friendly interface.
       
-    Skill =
+     Skill =
      
   </main>
 
@@ -183,12 +183,12 @@
     </section>
 
    
-    About Me
+     About Me
       
-    Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
-    digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
+     Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
+     digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
      
-    Skill =
+     Skill =
       
   </main>
 
