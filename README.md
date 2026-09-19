@@ -32,11 +32,11 @@
     <section class="hero">
       <img
         src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"src="https://github.com/user-attachments/assets/9bd11f94-3ae8-4957-bbe0-8ac9a0074bcd" />
-"
-      <h2 id="user-name">Kevyn Adryan  Liong</h2>
-      <p id="user-role">Frontend Developer</p>
-      <button id="counter-btn" class="btn-primary">
-        👍 Like (<span id="counter">0</span>)
+
+  <h2 id="user-name">Kevyn Adryan  Liong</h2>
+  <p id="user-role">Frontend Developer</p>
+  <button id="counter-btn" class="btn-primary">
+    👍 Like (<span id="counter">0</span>)
       </button>
     </section>
 
@@ -107,7 +107,7 @@
     <section class="hero">
       <img
         src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"src="https://github.com/user-attachments/assets/9bd11f94-3ae8-4957-bbe0-8ac9a0074bcd" />
-"
+
         
   <h2 id="user-name">Ganice Geralyn</h2>
   <p id="user-role">Styling Engineerr</p>
@@ -183,7 +183,7 @@
     <section class="hero">
       <img
         src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"src="https://github.com/user-attachments/assets/9bd11f94-3ae8-4957-bbe0-8ac9a0074bcd" />
-"
+
         
   <h2 id="user-name">Darryll Adrien Putra Purnomo</h2>
   <p id="user-role">Script Engineer</p>
