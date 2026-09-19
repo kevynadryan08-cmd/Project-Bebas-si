@@ -21,7 +21,7 @@
     <div class="navbar-actions">
       <nav class="member-nav" aria-label="Navigasi anggota">
         <button class="member-link active" type="button" data-member="0" aria-pressed="true">Kevyn Adryan Liong</button>
-        <button class="member-link" type="button" data-member="1" aria-pressed="false">Ganice Geralyn</button>
+        <button class="https://github.com/ganicegeralyn" type="button" data-member="1" aria-pressed="false">Ganice Geralyn</button>
         <button class="member-link" type="button" data-member="2" aria-pressed="false">Darryll Adrien Putra Purnomo</button>
       </nav>
       <button id="theme-toggle" class="btn-toggle">
