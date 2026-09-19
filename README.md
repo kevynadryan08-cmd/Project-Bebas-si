@@ -31,7 +31,7 @@
   <main>
     <section class="hero">
       <img
-        src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"src="https://github.com/user-attachments/assets/9bd11f94-3ae8-4957-bbe0-8ac9a0074bcd" />
+        src="https://github.com/user-attachments/assets/d6c98069-743f-4398-a91b-7e9cd6d8de52" />
 
   <h2 id="user-name">Kevyn Adryan  Liong</h2>
   <p id="user-role">Frontend Developer</p>
