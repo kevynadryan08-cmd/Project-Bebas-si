@@ -35,7 +35,7 @@
         alt="Foto profil Anggota 1"
         class="avatar"
       />
-      <h2 id="user-name">Nama Anggota 1</h2>
+      <h2 id="user-name">Kevyn Adryan  Liong</h2>
       <p id="user-role">Frontend Developer</p>
       <button id="counter-btn" class="btn-primary">
         👍 Like (<span id="counter">0</span>)
