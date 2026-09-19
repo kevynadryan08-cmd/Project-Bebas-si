@@ -32,8 +32,13 @@
     <section class="hero">
       <img
         src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"
-        alt="Foto profil Anggota 1"
+        alt="Foto profil Anggota 2"
         class="avatar"
+        .avatar {
+          width: 120px;
+          height: 160px;
+          object-fit: cover;
+          border-radius: 12px:
       />
       <h2 id="user-name">Kevyn Adryan Liong</h2>
       <p id="user-role">Frontend Developer</p>
