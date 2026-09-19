@@ -123,7 +123,8 @@
      I focus on designing and styling the website using CSS to 
      create a clean, responsive, and user-friendly interface.
       
-     Skill =
+     Skill = -CSS 
+             -Responsive Design
      
   </main>
 
