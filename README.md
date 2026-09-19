@@ -101,7 +101,8 @@
   <main>
     <section class="hero">
       <img
-        src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"
+        src="https://github.com/user-attachments/assets/04a3fa22-7f2b-4535-acde-9e49a43c1101" />
+"
         alt="Foto profil Anggota 1"
         class="avatar"
       />
