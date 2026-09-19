@@ -112,22 +112,14 @@
       </button>
     </section>
 
-    <section class="about">
-      <h3>About Me</h3>
-      <p>
-        I focus on designing and styling the website using CSS to 
-        create a clean, responsive, and user-friendly interface.
-      </p>
-    </section>
+    
+    About Me
 
-    <section class="skills">
-      <h3>Skill</h3>
-      <ul id="skill-list">
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-      </ul>
-    </section>
+    I focus on designing and styling the website using CSS to 
+    create a clean, responsive, and user-friendly interface.
+      
+    Skill =
+     
   </main>
 
   <footer>
@@ -190,22 +182,14 @@
       </button>
     </section>
 
-    <section class="about">
-      <h3>About Me</h3>
-      <p>
-        Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
-        digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
-      </p>
-    </section>
-
-    <section class="skills">
-      <h3>Skill</h3>
-      <ul id="skill-list">
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-      </ul>
-    </section>
+   
+    About Me
+      
+    Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
+    digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
+     
+    Skill =
+      
   </main>
 
   <footer>
