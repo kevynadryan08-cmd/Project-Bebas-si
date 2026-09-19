@@ -46,12 +46,12 @@
     </section>
 
     
-     About Me
+  About Me
       
-     Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
-     digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
+  Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
+  digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
      
-     Skill = 
+  Skill = Frontend Developer
      
   </main>
 
@@ -110,7 +110,7 @@
 <section class="about">
 
   <h2 id="user-name">Ganice Geralyn</h2>
-  <p id="user-role">Frontend Developer</p>
+  <p id="user-role">Styling Engineer</p>
   <button id="counter-btn" class="btn-primary">
     👍 Like (<span id="counter">0</span>)
       </button>
@@ -118,13 +118,12 @@
 
 
     
-     About Me
+  About Me
 
-     I focus on designing and styling the website using CSS to 
-     create a clean, responsive, and user-friendly interface.
+  I focus on designing and styling the website using CSS to 
+  create a clean, responsive, and user-friendly interface.
       
-     Skill = -CSS 
-             -Responsive Design
+  Skill = Styling Engineer
      
   </main>
 
@@ -184,7 +183,7 @@
   
 
   <h2 id="user-name">Darryll Adrien Putra Purnomo</h2>
-  <p id="user-role">Frontend Developer</p>
+  <p id="user-role">Script Engineer</p>
   <button id="counter-btn" class="btn-primary">
     👍 Like (<span id="counter">0</span>)
       </button>
@@ -192,12 +191,12 @@
 
 
    
-     About Me
+  About Me
       
-     Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
-     digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
+  Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
+  digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
      
-     Skill =
+  Skill = Script Engineer
       
   </main>
 
