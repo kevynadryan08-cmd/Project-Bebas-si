@@ -177,9 +177,7 @@
     <section class="hero">
       <img
         src="https://github.com/user-attachments/assets/48742743-7bb8-4648-83dd-e0c85276e891" />
-" />
-" />
-"
+
         
 <section class="about">
   
