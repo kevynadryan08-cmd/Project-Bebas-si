@@ -176,7 +176,8 @@
   <main>
     <section class="hero">
       <img
-        src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"
+        src="<img width="1080" height="1350" alt="WhatsApp Image 2026-09-19 at 13 47 32" src="https://github.com/user-attachments/assets/1808306c-1e01-4d85-a070-b78002406818" />
+"
         alt="Foto profil Anggota 1"
         class="avatar"
       />
