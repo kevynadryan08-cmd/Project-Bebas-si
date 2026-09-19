@@ -109,9 +109,9 @@ Live Demo: [link-demo-jika-ada](#)
 
 | Jokowi Muda | Role | Kontribusi |
 |---|---|---|
-| [Nama Anggota 1] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Nama Anggota 2] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Nama Anggota 3] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+| Kevyn Adryan Liong | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
+| Ganice Geralyn | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| Darryll Adrien Putra Purnomo | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
 ---
 
