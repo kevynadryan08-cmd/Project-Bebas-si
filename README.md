@@ -32,7 +32,7 @@
     <section class="hero">
       <img
         src="https://github.com/user-attachments/assets/d6c98069-743f-4398-a91b-7e9cd6d8de52" />
-"
+
        alt="Foto profil Anggota 1" 
         class="avatar"
         .avatar {
