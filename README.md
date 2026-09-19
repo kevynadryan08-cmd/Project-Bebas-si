@@ -36,8 +36,8 @@
        alt="Foto profil Anggota 1" 
         class="avatar"
         .avatar {
-          width: 120px;
-          height: 160px;
+          width: 60px;
+          height: 80px;
         }
       />
       <h2 id="user-name">Kevyn Adryan Liong</h2>
