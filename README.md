@@ -43,15 +43,12 @@
     </section>
 
     
-      About Me
+     About Me
       
-        Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
-        digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
-      </p>
-    </section>
-
-   
-      Skill = 
+     Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
+     digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
+     
+     Skill = 
      
   </main>
 
