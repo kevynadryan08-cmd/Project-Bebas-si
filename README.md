@@ -31,7 +31,7 @@
   <main>
     <section class="hero">
       <img
-        src="https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg"
+        src="https://github.com/user-attachments/assets/664aac72-d69f-47c5-9555-6c569cb4a682"
         alt="Foto profil Anggota 2"
         class="avatar"
         .avatar {
