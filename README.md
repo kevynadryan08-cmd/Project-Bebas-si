@@ -43,7 +43,7 @@
     </section>
 
     <section class="about">
-      <h3>Tentang Saya</h3>
+      <h3>About Me</h3>
       <p>
         Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
         digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
@@ -123,8 +123,8 @@
     <section class="about">
       <h3>About Me</h3>
       <p>
-        Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
-        digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
+        I focus on designing and styling the website using CSS to 
+        create a clean, responsive, and user-friendly interface.
       </p>
     </section>
 
@@ -199,7 +199,7 @@
     </section>
 
     <section class="about">
-      <h3>Tentang Saya</h3>
+      <h3>About Me</h3>
       <p>
         Saya fokus membangun tampilan web yang rapi, responsif, dan mudah
         digunakan melalui struktur HTML dan desain antarmuka yang konsisten.
